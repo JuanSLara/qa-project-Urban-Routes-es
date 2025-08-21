@@ -4,7 +4,7 @@
 #Realizado por **Juan Lara**.
 
 #Consiste en la automatización de pruebas de la aplicación Urban Routes usando Python,
-# Selenium WebDriver y Pytest, bajo el patrón de diseño Page Object Model (POM).
+Selenium WebDriver y Pytest, bajo el patrón de diseño Page Object Model (POM).
 
 
 ## 🛠 Tecnologías utilizadas
